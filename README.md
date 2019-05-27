@@ -38,6 +38,7 @@
 	- Mac
 	- Ruby
 	- RubyOnRails
+	- AWS
 - 役割
 	- 開発リーダー
 - チーム人数
